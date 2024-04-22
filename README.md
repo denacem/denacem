@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @denacem
-- 👀 I’m interested in frontend coding, decision support and skateboarding
-- 🌱 I’m currently learning Typescript and playing the ukulele
+- 👀 I’m interested in data science, frontend coding, decision support systems and skateboarding
+- 🌱 I’m currently trying to improve my Python, data visualisation and Japanese
 - 💞️ I’m looking to collaborate on projects that make the world a better place
 - 📫 How to reach me: denacem@gmail.com
 
